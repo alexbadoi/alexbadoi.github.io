@@ -12,6 +12,8 @@ I completed MSc Financial Economics and a Prof. Diploma in Data Analytics from t
 My expertise lies in processing business inteligence and financial data, providing insights and predictions. I offer data management and analytics consulting services related to:
 
 * Data Migrations
+* Data Mining
+* Data Wrangling and Feature Engineering
 * Data Analyisis and Optimisation
 * Data Visualization and Reporting
 * Computer Vision and Natural Language Processing
